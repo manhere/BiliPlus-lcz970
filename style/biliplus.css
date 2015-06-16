@@ -1,0 +1,56 @@
+a{text-decoration:none}
+a:link{color:#FFFFFF}
+a:visited{color:#FFFFFF}
+a:hover{color:#CDCDCD}
+a:active{color:#3388FF}
+html,body{margin:0px;width:100%;height:100%;font-size:16px;cursor:default}
+div.frametitle{font-family:"Microsoft YaHei";font-size:24px;font-weight:bold}
+div.framesubtitle{font-family:"Verdana";font-size:16px;font-weight:bold}
+div.framedescription{font-family:"Microsoft YaHei";font-size:16px}
+div.sidebar{margin:0px;width:150px;height:100%;background-color:#3388FF;box-shadow:5px 0px 0px #858585;position:fixed;top:0px;left:0px}
+div.sidebar-title{margin:0px 0px 6px 0px;width:150px;height:75px;background-color:#3388FF;text-align:center;font-family:"Verdana";font-size:50px;font-weight:bold;color:white}
+div.sidebar-list{margin:6px 0px 0px 0px;padding:10px 0px 10px 0px;width:150px;text-align:center;font-family:"Microsoft YaHei",SimHei;font-size:20px;font-weight:bold;color:white;box-shadow:0px -6px 0px #FFFFFF}
+div.sidebar-about{margin:6px 0px 0px 0px;padding:10px 0px 10px 0px;width:150px;background-color:#3388FF;text-align:center;font-family:"Verdana";font-size:12px;color:white;box-shadow:0px -6px 0px #FFFFFF}
+div.sidebar-list-block{margin:0px;padding:10px 0px 10px 0px;width:100%}
+div.sidebar div:hover{background:#858585}
+div.userbar{margin:0 0 6px 0;padding:0px;width:100%;color:#FFFFFF;text-align:right;font-size:14px;font-family:"Microsoft YaHei";background-color:#D04D74;float:right}
+p.userbarcontent{margin:8px}
+div.loading{margin:10px 0px 10px 0px;padding:0px;width:100%;height:100%;text-align:center;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:18px;font-weight:bold;background-color:#999999;float:left;display:block;z-index:9}
+div.content{margin:0px;padding:0px 0px 0px 160px;width:100%;box-sizing:border-box;float:left;display:block;z-index:1}
+input.button{margin:6px 0 6px 0;width:100px;font-family:"Microsoft YaHei";font-size:14px;font-weight:bold}
+
+div.title{font-family:"Microsoft YaHei";font-size:24px;font-weight:bold}
+div.subtitle{font-family:"Verdana";font-size:18px;font-weight:bold}
+div.boxtitle-1{margin:0px;padding:6px;width:200px;height:28px;color:#FFFFFF;text-align:center;font-family:"Microsoft YaHei";font-size:18px;font-weight:bold;background-color:#006EDC}
+div.boxcontent-1{margin:0px;padding:4px 0px 0px 0px;height:150px;border-top:6px solid #1E90FF;clear:both}
+div.errordescription{padding:8px;font-family:"Microsoft YaHei";font-size:15px;background-color:#DDDDDD}
+div.buttonbackground{padding:12px;text-align:center;background-color:#999999}
+
+div.boxtitle-2{margin:0px;padding:6px;width:200px;height:28px;color:#FFFFFF;text-align:center;font-family:"Microsoft YaHei";font-size:18px;font-weight:bold;background-color:#E9006D}
+div.boxcontent-2{margin:0px;padding:4px 0px 0px 0px;height:150px;border-top:6px solid #FF4DA0;clear:both}
+div.listboxtitle{margin:0px;padding:0px 0px 4px 0px;font-family:"Microsoft YaHei";font-size:15px;font-weight:bold;box-shadow:0px -4px 0px #FF4DA0 inset;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+div.listboxtitle:hover{text-overflow:inherit;overflow:visible}
+div.listboxbutton{margin:0px 0px 4px 2px;padding:10px 0px 0px 0px;width:108px;height:28px;color:#FFFFFF;text-align:center;font-family:"Microsoft YaHei";font-size:14px;font-weight:bold;background-color:#1FAAFF}
+div.listboxcontent{height:95px;font-family:"Microsoft YaHei";font-size:12px;background-color:#DDDDDD;overflow:auto}
+div.footer{margin:2px;padding:4px;font-family:"Microsoft YaHei";font-size:14px;font-color:#FFFFFF;text-align:center;background-color:#999999}
+div.update{margin:0px;padding:2px;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:14px;font-weight:bold;background-color:#1E90FF;display:inline-block}
+
+div.videodesc{padding:8px;font-family:"Microsoft YaHei";font-size:15px;background-color:#DDDDDD}
+div.videotitle{margin:2px;padding:4px;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:20px;font-weight:bold;background-color:#1E90FF}
+div.parttitle{margin:2px;padding:4px;color:#FFFFFF;font-family:SimHei;font-size:16px;font-weight:bold;background-color:#999999}
+div.pagelist{margin:0px;padding:4px}
+div.docinfo{margin:2px;padding:4px;color:#FFFFFF;font-family:"SimSun";font-size:16px;font-weight:bold;background-color:#888888;float:left}
+div.videotime{margin:2px;padding:4px;color:#FFFFFF;font-family:"SimSun";font-size:16px;font-weight:bold;background-color:#888888;float:right}
+div.videoinfo{margin:0px;padding:4px}
+div.infolist{margin:4px;padding:4px;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:14px;font-weight:bold;background-color:#1E90FF;display:inline-block}
+div.videofile{margin:0px;padding:4px}
+div.danmufile{margin:0px;padding:4px}
+div.playlink{margin:0px;padding:4px}
+div.tip{margin:2px;padding:2px;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:13px;font-weight:bold;background-color:green}
+div.filelist{margin:4px;padding:4px;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:15px;font-weight:bold;background-color:#006EDC;border-style:solid;border-width:2px;border-color:#999;display:inline-block}
+div.disable-filelist{margin:4px;padding:4px;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:15px;font-weight:bold;background-color:#666666;border-style:solid;border-width:2px;border-color:#999;display:inline-block}
+div.filelist_empty{margin:4px;padding:4px;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:15px;font-weight:bold;background-color:#666666;display:inline-block}
+div.mp3convert{margin:4px;padding:4px;color:#E9006D;font-family:"Microsoft YaHei";font-size:15px;font-weight:bold;background-color:#FFFFFF;border-style:solid;border-width:2px;border-color:#E9006D;display:inline-block}
+div.listbox{margin:2px;padding:4px;color:#FFFFFF;font-family:"Microsoft YaHei";font-size:14px;font-weight:bold;background-color:#FF40AD;display:inline-block}
+div.hrdescription{color:#222222;font-family:"SimSun";font-size:16px;font-weight:bold;float:left;display:inline-block;clear:both}
+div.footer{margin:2px;padding:4px;font-family:"Microsoft YaHei";font-size:14px;font-color:#FFFFFF;text-align:center;background-color:#999999}

@@ -1,0 +1,7 @@
+Public-Key: 0c3b34f505e5c2a6d56a26e8a89372f5
+
+App-Key: 9326043312df4201
+
+App-Secret: af97f9c667f1bbb47752d4fedbe27842
+
+第3方登录请求地址: https://secure.bilibili.com/login?api=http%3A%2F%2Fi.lcz970.xyz%2Fapi%2Flogin.php&appkey=9326043312df4201&sign=9a6003097414f1d9de369b8523257f3e
